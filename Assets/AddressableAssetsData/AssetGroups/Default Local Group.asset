@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7fba468735203d843b6c575e1846e8cd
+  m_SerializeEntries:
+  - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
+    m_Address: Assets/Scenes/SampleScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3db359ae6590fd643b417b36ee7e040f
+    m_Address: Assets/Scenes/New Scene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30d510496a58cc14e9360055d4ec7c0d
+    m_Address: Assets/Scenes/AddressableScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 932861f93909c8b4e8f389b28a094f45
+    m_Address: Assets/TexturesPart01/textures/brick_03_NRM.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: baf25f9d275b11941ba493d1bf57a115
+    m_Address: Assets/TexturesPart01/textures/brick_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb1942dee3dc13540bfad84da8f2cbf4
+    m_Address: Assets/TexturesPart01/textures/grass01_NRM.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7eace487c14d94f4180ea9621885296c
+    m_Address: Assets/TexturesPart01/textures/grass01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82e1caf18ed722c408499cb0aeb2d248
+    m_Address: Assets/TexturesPart01/textures/brick_broken_01_NRM.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b8899a33cc26d234596f0a8b50357331
+    m_Address: Assets/TexturesPart01/textures/brick_broken_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4b4f8c2efe8707641a952c72204432b3
+    m_Address: Assets/TexturesPart01/textures/ground_01_NRM.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bc74cafddbc6edb4abe20ee0d553f4ea
+    m_Address: Assets/TexturesPart01/textures/ground_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7b64cbe21e6ab8647b39bc64515b5c69
+    m_Address: Assets/TexturesPart01/textures/asphalt_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c4df4a02e32f30043b6fcdc7bdd777af
+    m_Address: Assets/TexturesPart01/textures/asphalt_01_NRM.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df74a12b75f4cb44a8cec8e929e85c2d
+    m_Address: Assets/TexturesPart01/textures/asphalt_02_NRM.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea0b7731ad9bc6a46be2625f012aaf74
+    m_Address: Assets/TexturesPart01/textures/asphalt_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd23db545ee163a4082eab357c4037f7
+    m_Address: Assets/TexturesPart01/textures/ground_04_NRM.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 373fb5a4630deca44ae7cb92f7b647a2
+    m_Address: Assets/TexturesPart01/textures/ground_04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d79b45fcc7856dd498bf97eb29c3b765
+    m_Address: Assets/TexturesPart01/textures/ground_03_NRM.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7117f77d4da5b02449c4f33295d2e881
+    m_Address: Assets/TexturesPart01/textures/ground_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a5787585950233246ae16b059c824d43
+    m_Address: Assets/TexturesPart01/textures/ground_02_NRM.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1840132d04fc78649920201bfefa0177
+    m_Address: Assets/TexturesPart01/textures/ground_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d97a3cc8e5cc544b95fededcc834b88
+    m_Address: Assets/TexturesPart01/textures/asphalt_03_NRM.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e37ca78d251f32e4d93b913ad180bd91
+    m_Address: Assets/TexturesPart01/textures/asphalt_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 072f1687179b64d45827c986e57ee11d
+    m_Address: Assets/TexturesPart01/textures/brick_01_NRM.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23804dacdbdaa434d96b5b7f7bd56567
+    m_Address: Assets/TexturesPart01/textures/brick_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a84959d43e1cf8f4694a47cd7de585de
+    m_Address: Assets/TexturesPart01/textures/brick_02_NRM.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b61fc3343ec8284788b892d495dd5e4
+    m_Address: Assets/TexturesPart01/textures/brick_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43a2174fbe4ea0745b72df6e95a4e3bb
+    m_Address: Assets/TexturesPart01/textures/grass02_NRM.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f08ee6a4e2a0f4408664880aecff782
+    m_Address: Assets/TexturesPart01/textures/grass02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b54445743a50be043a6fc7616362ced0
+    m_Address: Assets/TexturesPart01/textures/brick_04_NRM.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 431a0919e40210e438740274a880d394
+    m_Address: Assets/TexturesPart01/textures/brick_04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80571da6ac21c664a810bb99daf9585f
+    m_Address: Assets/TexturesPart01/Materials/brick_03.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91dc380300162fa4bac388696c91e7f3
+    m_Address: Assets/TexturesPart01/Materials/grass01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1cae046fc1890a40bc176b013827536
+    m_Address: Assets/TexturesPart01/Materials/brick_broken_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32cee2515b450af4b99cc6f7838e1248
+    m_Address: Assets/TexturesPart01/Materials/ground_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82e6f2f316188a340ad4ef8f1239a67a
+    m_Address: Assets/TexturesPart01/Materials/asphalt_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0349a2d87a784904cb7a5ad6d4a65c2b
+    m_Address: Assets/TexturesPart01/Materials/asphalt_02.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 639ff19e714fae74893c7da956744182
+    m_Address: Assets/TexturesPart01/Materials/ground_04.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 064b5bae29f9e014ca5c2ba8b48ea645
+    m_Address: Assets/TexturesPart01/Materials/ground_03.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56e0c031a95a5fc4999bee6209ba71bf
+    m_Address: Assets/TexturesPart01/Materials/ground_02.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 968fec0a955030c44bfcae378855ed73
+    m_Address: Assets/TexturesPart01/Materials/asphalt_03.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7c4d361c25bb1440a73cea93bbc06a3
+    m_Address: Assets/TexturesPart01/Materials/brick_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5b2aa725c401a954eb803e3f8a77c47d
+    m_Address: Assets/TexturesPart01/Materials/brick_02.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7b7d0a06c95ae134a8b596036e4a80bb
+    m_Address: Assets/TexturesPart01/Materials/grass02.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ae05a216b935ee6428ef95995dc2e2c8
+    m_Address: Assets/TexturesPart01/Materials/brick_04.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c140e49d62acd7248b8bcc690136d902
+    m_Address: Assets/Material/First.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 42f9a94fface3344f94dd5831df40fe1
+    m_Address: Assets/Material/First 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37ceda8e5c2649546befeb8d33e887ec
+    m_Address: Assets/Material/SkyBox 2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b7dbe69710145bc489e82b07aa4094d3
+    m_Address: Assets/Material/First 2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eea7ff5c9791c594d9f7f1b1eb8d1dea
+    m_Address: Assets/Material/SkyBox.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f9405b8ff47bad4db21f8e1e6cb03bc
+    m_Address: Assets/Material/SkyBox 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b1a26a34771b373458629165ab22a0f2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0ff2796da58d11948b518937424f4f53, type: 2}
+    - {fileID: 11400000, guid: 6d876a783370d464fb7b4a3020407d04, type: 2}
